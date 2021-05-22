@@ -1,4 +1,12 @@
-<p><b>I'm a software developer specializing in code consulting.</b></p>
+<p>
+    <b>I'm a software developer specializing in code consulting.</b>
+    <br>
+    <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a>
+    &bull;
+    <a href="tel:1-415-317-2700">1-415-317-2700</a>
+    &bull;
+    <a href="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/resume/joelparkerhenderson.pdf">résumé</a>
+</p>
 
 <p>
     <a href="https://github.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
@@ -13,21 +21,21 @@
 <details>
   <summary>Contact</summary>
       <ul>
-        <li><a href="https://linkedin.com/in/joelparkerhenderson"></a>LinkedIn: https://linkedin.com/in/joelparkerhenderson</li>
-        <li><a href="https://github.com/joelparkerhenderson">GitHub: https://github.com/joelparkerhenderson</a></li>
-        <li><a href="https://twitter.com/joel_henderson">Twitter: https://twitter.com/joel_henderson</a></li>
-        <li><a href="https://facebook.com/joelparkerhenderson">Facebook: https://facebook.com/joelparkerhenderson</a></li>
-        <li><a href="https://angel.co/joelparkerhenderson">AngelList: https://angel.co/joelparkerhenderson</a></li>
-        <li><a href="https://www.crunchbase.com/person/joel-parker-henderson">Crunchbase: https://www.crunchbase.com/person/joel-parker-henderson</a></li>
-        <li><a href="https://calendly.com/joelparkerhenderson">Calendly: https://calendly.com/joelparkerhenderson</a></li>
-        <li><a href="https://paypal.me/joelparkerhenderson">PayPal: https://paypal.me/joelparkerhenderson</a></li> 
-        <li><a href="https://account.venmo.com/u/joelparkerhenderson">Venmo: https://account.venmo.com/u/joelparkerhenderson</a></li> 
-        <li><a href="https://soundcloud.com/joelparkerhenderson">Soundcloud: https://soundcloud.com/joelparkerhenderson</a>
+        <li>LinkedIn: <a href="https://linkedin.com/in/joelparkerhenderson">https://linkedin.com/in/joelparkerhenderson</li>
+        <li>GitHub: <a href="https://github.com/joelparkerhenderson">https://github.com/joelparkerhenderson</a></li>
+        <li>Twitter: <a href="https://twitter.com/joel_henderson">https://twitter.com/joel_henderson</a></li>
+        <li>Facebook: <a href="https://facebook.com/joelparkerhenderson">https://facebook.com/joelparkerhenderson</a></li>
+        <li>AngelList: <a href="https://angel.co/joelparkerhenderson">https://angel.co/joelparkerhenderson</a></li>
+        <li>Crunchbase: <a href="https://www.crunchbase.com/person/joel-parker-henderson">https://www.crunchbase.com/person/joel-parker-henderson</a></li>
+        <li>Calendly: <a href="https://calendly.com/joelparkerhenderson">https://calendly.com/joelparkerhenderson</a></li>
+        <li>PayPal: <a href="https://paypal.me/joelparkerhenderson">https://paypal.me/joelparkerhenderson</a></li> 
+        <li>Venmo: <a href="https://account.venmo.com/u/joelparkerhenderson">https://account.venmo.com/u/joelparkerhenderson</a></li> 
+        <li>Soundcloud: <a href="https://soundcloud.com/joelparkerhenderson">https://soundcloud.com/joelparkerhenderson</a>
     </li>
 </details> 
 
 <details>
-    <summary>Leadership coaching repositories</summary>
+    <summary>Leadership consulting repositories</summary>
     <ul>
         <li><a href="https://github.com/joelparkerhenderson/adkar_change_management_model">ADKAR change management model</a></li>
         <li><a href="https://github.com/joelparkerhenderson/agile_assessment">Agile assessment</a></li>
