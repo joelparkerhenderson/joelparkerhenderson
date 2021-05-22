@@ -22,7 +22,7 @@
 <details>
   <summary>Contact</summary>
       <ul>
-        <li>LinkedIn: <a href="https://linkedin.com/in/joelparkerhenderson">https://linkedin.com/in/joelparkerhenderson</li>
+        <li>LinkedIn: <a href="https://linkedin.com/in/joelparkerhenderson">https://linkedin.com/in/joelparkerhenderson</a></li>
         <li>GitHub: <a href="https://github.com/joelparkerhenderson">https://github.com/joelparkerhenderson</a></li>
         <li>Twitter: <a href="https://twitter.com/joel_henderson">https://twitter.com/joel_henderson</a></li>
         <li>Facebook: <a href="https://facebook.com/joelparkerhenderson">https://facebook.com/joelparkerhenderson</a></li>
