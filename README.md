@@ -1,4 +1,14 @@
-<b>I'm a software developer specializing in code consulting</b>
+<p><b>I'm a software developer specializing in code consulting.</b></p>
+
+<p>
+    <a href="https://github.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
+    <a href="https://linkedin.com/in/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
+    <a href="https://twitter.com/joel_henderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
+    <a href="https://facebook.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/facebook.svg"></a>
+    <a href="https://paypal.me/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/paypal.svg"></a>
+    <a href="https://soundcloud.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a>
+</p>
+
 
 <details>
   <summary>Contact</summary>
@@ -10,6 +20,9 @@
         <li><a href="https://angel.co/joelparkerhenderson">AngelList: https://angel.co/joelparkerhenderson</a></li>
         <li><a href="https://www.crunchbase.com/person/joel-parker-henderson">Crunchbase: https://www.crunchbase.com/person/joel-parker-henderson</a></li>
         <li><a href="https://calendly.com/joelparkerhenderson">Calendly: https://calendly.com/joelparkerhenderson</a></li>
+        <li><a href="https://paypal.me/joelparkerhenderson">PayPal: https://paypal.me/joelparkerhenderson</a></li> 
+        <li><a href="https://account.venmo.com/u/joelparkerhenderson">Venmo: https://account.venmo.com/u/joelparkerhenderson</a></li> 
+        <li><a href="https://soundcloud.com/joelparkerhenderson">Soundcloud: https://soundcloud.com/joelparkerhenderson</a>
     </li>
 </details> 
 
