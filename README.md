@@ -55,6 +55,7 @@
         <li><a href="https://github.com/joelparkerhenderson/functional-specifications-template">Functional specifications template</a></li>
         <li><a href="https://github.com/joelparkerhenderson/functional-specifications-tutorial">Functional specifications tutorial</a></li>
         <li><a href="https://github.com/joelparkerhenderson/goals-ideas-steps-tasks">Goals Ideas Steps Tasks (GIST)</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/icebreaker-questions">Icebreaker questions</a></li>
         <li><a href="https://github.com/joelparkerhenderson/intent-plan">Intent plan</a></li>
         <li><a href="https://github.com/joelparkerhenderson/issues">Issues</a></li>
         <li><a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indictor (KPI)</a></li>
