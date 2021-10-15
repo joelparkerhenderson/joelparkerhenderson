@@ -105,7 +105,7 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-d3-target">D3 Target</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-data-schema-transforms">Schema transforms</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-date-time-format">Date-Time Format</a></li>
-        <li><a href="https://github.com/joelparkerhenderson/demo-elixir-phoenix">Elixir &amp;Phoenix</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-elixir-phoenix">Elixir &amp; Phoenix</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-java-spring-boot-rest">Java Spring Boot Rest</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-job-title-descriptions">Job title bescriptions</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-json-api-beginner">JSON API beginner</a></li>
@@ -113,10 +113,13 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-json-api-specification">JSON API specifications</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-liquibase-hello-world">Liquibase hello world</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-liquibase-yaml">Liquibase YAML</a></li>
-        <li><a href="https://github.com/joelparkerhenderson/demo-of-swift-items">Demo of Swift items</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-optaplanner">OptaPlanner onstraint satisfaction solver</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-oracle-sql-todo">Oracle SQL todo</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-python-flask-hello-world">Python Flask hello world</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-ruby-sinatra-hello-world">Ruby Sinatra hello world</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-selenium-javascript">Selenium JavaScript</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-selenium-javascript-e2e-tests">Selenium JavaScript E2E tests</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-shopping-cart-exercise-with-ruby">Shopping card exercise with Ruby</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swagger">Swagger a.k.a. OpenAPI</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-alamofire">Swift Alamofire for networking</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-carthage">Swift Carthage for packagem management</a></li>
@@ -134,8 +137,10 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-sqlite">Swift SQLite</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-taylor">Swift Taylor</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-text-view">Swift text view</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-tailwind-css">Tailwind CSS</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-terraform">Terraform</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-terraform-2">Terraform 2</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-trello-api">Trello API for boards and cards</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-vagrant-virtualbox-aws">Vagrant VirtualBox AWS</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-yaml-files-to-swift-classes">YAML files to Swift classes</a></li>
     </ul>
