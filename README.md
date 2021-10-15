@@ -96,6 +96,19 @@
 </details>
 
 <details>
+    <summary>Git guidance repositories</summary>
+    <ul>
+        <li><a href="https://github.com/joelparkerhenderson/git-commit-message">Git commit message</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/git-commit-template">Git commit template</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/git-branch-name">Git branch name</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/git-hooks">Git hooks</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/git-workflow-help">Git workflow help</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/github-special-files-and-paths">GitHub special files and paths</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/monorepo-vs-polyrepo">Monorepo vs. polyrepo</a></li>
+    </ul>
+</details>
+
+<details>
     <summary>Demo technology repositories</summary>
     <ul>
         <li><a href="https://github.com/joelparkerhenderson/demo-aws-lambda">AWS Lamba</a></li>
