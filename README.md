@@ -107,7 +107,7 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-date-time-format">Date-Time Format</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-elixir-phoenix">Elixir &amp; Phoenix</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-java-spring-boot-rest">Java Spring Boot Rest</a></li>
-        <li><a href="https://github.com/joelparkerhenderson/demo-job-title-descriptions">Job title bescriptions</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-job-title-descriptions">Job title descriptions</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-json-api-beginner">JSON API beginner</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-json-api-hello-world">JSON API hello world</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-json-api-specification">JSON API specifications</a></li>
@@ -119,7 +119,7 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-ruby-sinatra-hello-world">Ruby Sinatra hello world</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-selenium-javascript">Selenium JavaScript</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-selenium-javascript-e2e-tests">Selenium JavaScript E2E tests</a></li>
-        <li><a href="https://github.com/joelparkerhenderson/demo-shopping-cart-exercise-with-ruby">Shopping card exercise with Ruby</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/demo-shopping-cart-exercise-with-ruby">Shopping cart exercise with Ruby</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swagger">Swagger a.k.a. OpenAPI</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-alamofire">Swift Alamofire for networking</a></li>
         <li><a href="https://github.com/joelparkerhenderson/demo-swift-carthage">Swift Carthage for packagem management</a></li>
