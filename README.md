@@ -58,7 +58,7 @@
         <li><a href="https://github.com/joelparkerhenderson/icebreaker-questions">Icebreaker questions</a></li>
         <li><a href="https://github.com/joelparkerhenderson/intent-plan">Intent plan</a></li>
         <li><a href="https://github.com/joelparkerhenderson/issues">Issues</a></li>
-        <li><a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indictor (KPI)</a></li>
+        <li><a href="https://github.com/joelparkerhenderson/key-performance-indicator">Key Performance Indicator (KPI)</a></li>
         <li><a href="https://github.com/joelparkerhenderson/key-risk-indicator">Key Risk Indicator (KRI)</a></li>
         <li><a href="https://github.com/joelparkerhenderson/leadership">Leadership: selected notes &amp; advice</a></li>
         <li><a href="https://github.com/joelparkerhenderson/lean-business-lists">Lean business lists</a></li>
