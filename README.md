@@ -1,11 +1,11 @@
 <p>
-    <b>I'm a software developer specializing in code consulting.</b>
+    <b>I'm a software developer specializing in technology consulting.</b>
     <br>
     <a href="mailto:joel@joelparkerhenderson.com">joel@joelparkerhenderson.com</a>
     &bull;
     <a href="tel:1-415-317-2700">1-415-317-2700</a>
     &bull;
-    <a href="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/resume/joelparkerhenderson.pdf">résumé</a>
+    <a href="https://raw.githubusercontent.com/joelparkerhenderson/resume/main/joelparkerhenderson-resume.pdf">résumé</a>
 </p>
 
 <p>
@@ -13,6 +13,7 @@
     <a href="https://linkedin.com/in/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
     <a href="https://twitter.com/joel_henderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
     <a href="https://facebook.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/facebook.svg"></a>
+    <a href="https://facebook.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/instagram.svg"></a>
     <a href="https://reddit.com/u/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/reddit.svg"></a>
     <a href="https://paypal.me/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/paypal.svg"></a>
     <a href="https://soundcloud.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a>
