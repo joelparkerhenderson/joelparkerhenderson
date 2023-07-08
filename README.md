@@ -26,6 +26,7 @@
         <li>GitHub: <a href="https://github.com/joelparkerhenderson">https://github.com/joelparkerhenderson</a></li>
         <li>Twitter: <a href="https://twitter.com/joel_henderson">https://twitter.com/joel_henderson</a></li>
         <li>Facebook: <a href="https://facebook.com/joelparkerhenderson">https://facebook.com/joelparkerhenderson</a></li>
+        <li>Instagram: <a href="https://instagram.com/joelparkerhenderson">https://instagram.com/joelparkerhenderson</a></li>
         <li>AngelList: <a href="https://angel.co/joelparkerhenderson">https://angel.co/joelparkerhenderson</a></li>
         <li>Crunchbase: <a href="https://www.crunchbase.com/person/joel-parker-henderson">https://www.crunchbase.com/person/joel-parker-henderson</a></li>
         <li>Calendly: <a href="https://calendly.com/joelparkerhenderson">https://calendly.com/joelparkerhenderson</a></li>
@@ -93,6 +94,17 @@
         <li><a href="https://github.com/joelparkerhenderson/wordbooks">Wordbooks: glossaries, lexicons, terminology</a></li>
         <li><a href="https://github.com/sixarm/sixarm-company-confidentiality-agreement">Confidentiality agreement</a></li>
         <li><a href="https://github.com/sixarm/sixarm-company-consulting-agreement">Consulting agreement</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Primer guidebook repositories</summary>
+    <ul>
+        <li><a href="https://github.com/sixarm/startup-business-primer">Startup Business Primer</a></li>
+        <li><a href="https://github.com/sixarm/project-management-primer">Project Management Primer</a></li>
+        <li><a href="https://github.com/sixarm/ui-ux-primer">UI/UX Primer</a></li>
+        <li><a href="https://github.com/sixarm/business-lingo-primer">Business Lingo Primer</a></li>
+        <li><a href="https://github.com/sixarm/innovation-partnership-primer">Innovation Partnership Primer</a></li>
     </ul>
 </details>
 
