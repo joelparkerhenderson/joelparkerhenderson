@@ -100,11 +100,11 @@
 <details>
     <summary>Primer guidebook repositories</summary>
     <ul>
-        <li><a href="https://github.com/sixarm/startup-business-primer">Startup Business Primer</a></li>
-        <li><a href="https://github.com/sixarm/project-management-primer">Project Management Primer</a></li>
-        <li><a href="https://github.com/sixarm/ui-ux-primer">UI/UX Primer</a></li>
-        <li><a href="https://github.com/sixarm/business-lingo-primer">Business Lingo Primer</a></li>
         <li><a href="https://github.com/sixarm/innovation-partnership-primer">Innovation Partnership Primer</a></li>
+        <li><a href="https://github.com/sixarm/startup-business-primer">Startup Business Primer</a></li>
+        <li><a href="https://github.com/sixarm/business-lingo-primer">Business Lingo Primer</a></li>
+        <li><a href="https://github.com/sixarm/project-management-primer">Project Management Primer</a></li>
+        <li><a href="https://github.com/sixarm/ui-ux-design-primer">UI/UX Design Primer</a></li>
     </ul>
 </details>
 
