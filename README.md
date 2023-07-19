@@ -171,3 +171,13 @@
         <li><a href="https://github.com/joelparkerhenderson/demo-yaml-files-to-swift-classes">YAML files to Swift classes</a></li>
     </ul>
 </details>
+
+<div class="primer-list">
+    <div class="primer"><a href="https://gumroad.com/l/innovation-partnership-primer"><img src="assets/projects/innovation-partnership-primer/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/startup-business-primer"><img src="assets/projects/startup-business-primer/assets/images/splash/1920x960.jpg" alt="Startup Business Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
+</div>
+
+</body>
