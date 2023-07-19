@@ -9,14 +9,14 @@
 </p>
 
 <p>
-    <a href="https://github.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
-    <a href="https://linkedin.com/in/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
-    <a href="https://twitter.com/joel_henderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
-    <a href="https://facebook.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/facebook.svg"></a>
-    <a href="https://facebook.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/instagram.svg"></a>
-    <a href="https://reddit.com/u/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/reddit.svg"></a>
-    <a href="https://paypal.me/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/paypal.svg"></a>
-    <a href="https://soundcloud.com/joelparkerhenderson"><img src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a>
+    <a href="https://github.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/github.svg"></a>
+    <a href="https://linkedin.com/in/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/linkedin.svg"></a>
+    <a href="https://twitter.com/joel_henderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/twitter.svg"></a>
+    <a href="https://facebook.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/facebook.svg"></a>
+    <a href="https://facebook.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/instagram.svg"></a>
+    <a href="https://reddit.com/u/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/reddit.svg"></a>
+    <a href="https://paypal.me/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/paypal.svg"></a>
+    <a href="https://soundcloud.com/joelparkerhenderson"><img loading="lazy" src="https://raw.githubusercontent.com/joelparkerhenderson/joelparkerhenderson/main/assets/images/icons/nucleo-social-icons/svg/logo/soundcloud.svg"></a>
 </p>
 
 <details>
@@ -173,11 +173,11 @@
 </details>
 
 <div class="primer-list">
-    <div class="primer"><a href="https://gumroad.com/l/innovation-partnership-primer"><img src="assets/projects/innovation-partnership-primer/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/startup-business-primer"><img src="assets/projects/startup-business-primer/assets/images/splash/1920x960.jpg" alt="Startup Business Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/innovation-partnership-primer"><img loading="lazy" src="assets/projects/innovation-partnership-primer/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/startup-business-primer"><img loading="lazy" src="assets/projects/startup-business-primer/assets/images/splash/1920x960.jpg" alt="Startup Business Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img loading="lazy" src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img loading="lazy" src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img loading="lazy" src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
 </div>
 
 </body>
