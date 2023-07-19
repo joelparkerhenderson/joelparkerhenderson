@@ -178,6 +178,7 @@
     <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img loading="lazy" src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
     <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img loading="lazy" src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
     <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img loading="lazy" src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
+    <div class="primer"><a href="https://gumroad.com/l/software-programming-primer"><img loading="lazy" src="assets/projects/software-programming-primer/assets/images/splash/1920x960.jpg" alt="Software Programming Primer"></a></div>
 </div>
 
 </body>
