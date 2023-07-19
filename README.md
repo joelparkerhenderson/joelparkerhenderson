@@ -178,7 +178,6 @@
     <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img loading="lazy" src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
     <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img loading="lazy" src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
     <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img loading="lazy" src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
-    <div class="project"><a href="https://github.com/joelparkerhenderson/objectives-and-key-results"><img loading="lazy" src="assets/projects/objectives-and-key-results/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
 </div>
 
 </body>
