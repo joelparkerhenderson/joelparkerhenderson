@@ -98,13 +98,13 @@
 </details>
 
 <details>
-    <summary>Primer guidebook repositories</summary>
+    <summary>Guide book repositories</summary>
     <ul>
-        <li><a href="https://github.com/sixarm/innovation-partnership-primer">Innovation Partnership Primer</a></li>
-        <li><a href="https://github.com/sixarm/startup-business-primer">Startup Business Primer</a></li>
-        <li><a href="https://github.com/sixarm/business-lingo-primer">Business Lingo Primer</a></li>
-        <li><a href="https://github.com/sixarm/project-management-primer">Project Management Primer</a></li>
-        <li><a href="https://github.com/sixarm/ui-ux-design-primer">UI/UX Design Primer</a></li>
+        <li><a href="https://github.com/sixarm/innovation-partnership-guide">Innovation Partnership Guide</a></li>
+        <li><a href="https://github.com/sixarm/startup-business-guide">Startup Business Guide</a></li>
+        <li><a href="https://github.com/sixarm/business-lingo-guide">Business Lingo Guide</a></li>
+        <li><a href="https://github.com/sixarm/project-management-guide">Project Management Guide</a></li>
+        <li><a href="https://github.com/sixarm/ui-ux-design-guide">UI/UX Design Guide</a></li>
     </ul>
 </details>
 
@@ -172,13 +172,13 @@
     </ul>
 </details>
 
-<div class="primer-list">
-    <div class="primer"><a href="https://gumroad.com/l/innovation-partnership-primer"><img loading="lazy" src="assets/projects/innovation-partnership-primer/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/startup-business-primer"><img loading="lazy" src="assets/projects/startup-business-primer/assets/images/splash/1920x960.jpg" alt="Startup Business Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/business-lingo-primer"><img loading="lazy" src="assets/projects/business-lingo-primer/assets/images/splash/1920x960.jpg" alt="Business Lingo Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/project-management-primer"><img loading="lazy" src="assets/projects/project-management-primer/assets/images/splash/1920x960.jpg" alt="Project Management Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/ui-ux-design-primer"><img loading="lazy" src="assets/projects/ui-ux-design-primer/assets/images/splash/1920x960.jpg" alt="UI/UX Design Primer"></a></div>
-    <div class="primer"><a href="https://gumroad.com/l/software-programming-primer"><img loading="lazy" src="assets/projects/software-programming-primer/assets/images/splash/1920x960.jpg" alt="Software Programming Primer"></a></div>
+<div class="guide-list">
+    <div class="guide"><a href="https://gumroad.com/l/innovation-partnership-guide"><img loading="lazy" src="assets/projects/innovation-partnership-guide/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/startup-business-guide"><img loading="lazy" src="assets/projects/startup-business-guide/assets/images/splash/1920x960.jpg" alt="Startup Business Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/business-lingo-guide"><img loading="lazy" src="assets/projects/business-lingo-guide/assets/images/splash/1920x960.jpg" alt="Business Lingo Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/project-management-guide"><img loading="lazy" src="assets/projects/project-management-guide/assets/images/splash/1920x960.jpg" alt="Project Management Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/ui-ux-design-guide"><img loading="lazy" src="assets/projects/ui-ux-design-guide/assets/images/splash/1920x960.jpg" alt="UI/UX Design Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/software-programming-guide"><img loading="lazy" src="assets/projects/software-programming-guide/assets/images/splash/1920x960.jpg" alt="Software Programming Guide"></a></div>
 </div>
 
 </body>
