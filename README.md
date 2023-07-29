@@ -178,6 +178,7 @@
     <div class="guide"><a href="https://gumroad.com/l/business-lingo-guide"><img loading="lazy" src="assets/projects/business-lingo-guide/assets/images/splash/1920x960.jpg" alt="Business Lingo Guide"></a></div>
     <div class="guide"><a href="https://gumroad.com/l/project-management-guide"><img loading="lazy" src="assets/projects/project-management-guide/assets/images/splash/1920x960.jpg" alt="Project Management Guide"></a></div>
     <div class="guide"><a href="https://gumroad.com/l/ui-ux-design-guide"><img loading="lazy" src="assets/projects/ui-ux-design-guide/assets/images/splash/1920x960.jpg" alt="UI/UX Design Guide"></a></div>
+    <div class="guide"><a href="https://gumroad.com/l/ai-starter-guide"><img loading="lazy" src="assets/projects/ai-starter-guide/assets/images/splash/1920x960.jpg" alt="AI Starter Guide"></a></div>
     <div class="guide"><a href="https://gumroad.com/l/software-programming-guide"><img loading="lazy" src="assets/projects/software-programming-guide/assets/images/splash/1920x960.jpg" alt="Software Programming Guide"></a></div>
 </div>
 
