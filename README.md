@@ -180,7 +180,7 @@
     <div class="guide"><a href="https://github.com/sixarm/ui-ux-design-guide"><img loading="lazy" src="assets/projects/ui-ux-design-guide/assets/images/splash/1920x960.jpg" alt="UI/UX Design Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/ai-starter-guide"><img loading="lazy" src="assets/projects/ai-starter-guide/assets/images/splash/1920x960.jpg" alt="AI Starter Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/software-programming-guide"><img loading="lazy" src="assets/projects/software-programming-guide/assets/images/splash/1920x960.jpg" alt="Software Programming Guide"></a></div>
-    <div class="guide"><a href="https://github.com/sixarm/mast-cell-activation-syndrome-guide"><img loading="lazy" src="assets/projects/mast-cell-activation-syndrome-guide/assets/images/splash/1920x960.jpg" alt="Mast Cell Activation Syndrome Guide"></a></div></div>
+    <div class="guide"><a href="https://github.com/sixarm/mast-cell-help"><img loading="lazy" src="assets/projects/mast-cell-help/assets/images/splash/1920x960.jpg" alt="Mast Cell Activation Syndrome Guide"></a></div></div>
 </div>
 
 </body>
