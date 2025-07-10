@@ -176,11 +176,12 @@
     <div class="guide"><a href="https://github.com/sixarm/innovation-partnership-guide"><img loading="lazy" src="assets/projects/innovation-partnership-guide/assets/images/splash/1920x960.jpg" alt="Innovation Partnership Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/startup-business-guide"><img loading="lazy" src="assets/projects/startup-business-guide/assets/images/splash/1920x960.jpg" alt="Startup Business Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/business-lingo-guide"><img loading="lazy" src="assets/projects/business-lingo-guide/assets/images/splash/1920x960.jpg" alt="Business Lingo Guide"></a></div>
+    <div class="guide"><a href="https://github.com/sixarm/agile-change-guide"><img loading="lazy" src="assets/projects/agile-change-guide/assets/images/splash/1920x960.jpg" alt="Agile Change Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/project-management-guide"><img loading="lazy" src="assets/projects/project-management-guide/assets/images/splash/1920x960.jpg" alt="Project Management Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/ui-ux-design-guide"><img loading="lazy" src="assets/projects/ui-ux-design-guide/assets/images/splash/1920x960.jpg" alt="UI/UX Design Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/ai-starter-guide"><img loading="lazy" src="assets/projects/ai-starter-guide/assets/images/splash/1920x960.jpg" alt="AI Starter Guide"></a></div>
     <div class="guide"><a href="https://github.com/sixarm/software-programming-guide"><img loading="lazy" src="assets/projects/software-programming-guide/assets/images/splash/1920x960.jpg" alt="Software Programming Guide"></a></div>
-    <div class="guide"><a href="https://github.com/sixarm/mast-cell-help"><img loading="lazy" src="assets/projects/mast-cell-help/assets/images/splash/1920x960.jpg" alt="Mast Cell Activation Syndrome Guide"></a></div></div>
+div>
 </div>
 
 </body>
